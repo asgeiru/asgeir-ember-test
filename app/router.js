@@ -6,6 +6,8 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  	this.resource('photos');
+	this.route('catchall', {path: '/*wildcard'});
 });
 
 export default Router;
