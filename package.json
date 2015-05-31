@@ -32,6 +32,10 @@
     "ember-cli-uglify": "^1.0.1",
     "ember-data": "1.0.0-beta.18",
     "ember-disable-proxy-controllers": "^1.0.0",
-    "ember-export-application-global": "^1.0.2"
+    "ember-export-application-global": "^1.0.2",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.35",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-jasmine": "^0.3.5"
   }
 }
